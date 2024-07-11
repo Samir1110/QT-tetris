@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>lastGame.txt</file>
+        <file>ranking.txt</file>
+        <file>UserGameHistory.txt</file>
+        <file>setGame.txt</file>
+        <file>default.txt</file>
+        <file>backGround.txt</file>
+        <file>key.txt</file>
+        <file>defaultkey.txt</file>
+    </qresource>
+</RCC>

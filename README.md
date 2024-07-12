@@ -37,18 +37,22 @@
  <p align="center">
   <img src="pic/4.png"  width="50%" />
 </p>
+
  **双人游戏画面** 
  <p align="center">
   <img src="pic/5.png"  width="50%" />
 </p>
+
  **在初始窗口中单击游戏记录** 
 <p align="center">
   <img src="pic/6.png"  width="50%" />
 </p>
+
  **点击得分排行榜**:按分数排名前20位
 <p align="center">
   <img src="pic/7.png"  width="50%" />
 </p>
+
  **点击玩家存档记录** 
 <p align="center">
   <img src="pic/8.png"  width="50%" />
